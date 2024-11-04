@@ -4,7 +4,7 @@
 faiss-cpu
 google-search-results==2.4
 langchain-nvidia-ai-endpoints==0.0.11
-langchain==0.1.16
+langchain==0.3.7
 milvus==2.3.5
 nemollm==0.3.5
 pymilvus==2.3.6
